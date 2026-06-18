@@ -23,7 +23,7 @@ Tenho conhecimento em **Java**, **Spring Boot** e **C#**, com interesse em const
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smecrow&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smecrow&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&v=2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smecrow&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=C,C%2B%2B&cache_seconds=21600&v=2)
 
