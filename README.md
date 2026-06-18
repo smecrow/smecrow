@@ -30,5 +30,5 @@ Tenho conhecimento em **Java**, **Spring Boot** e **C#**, com interesse em const
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Peixoto_Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpeixotopereira/)
-[![Email](https://img.shields.io/badge/Email-gabs.itso%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabs.itso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpeixotop/)
+[![Email](https://img.shields.io/badge/Email-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabs.itso@gmail.com)
