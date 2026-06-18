@@ -23,10 +23,12 @@ Tenho conhecimento em **Java**, **Spring Boot** e **C#**, com interesse em const
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smecrow&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&v=2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smecrow&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=C,C%2B%2B&cache_seconds=21600&v=2)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smecrow&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&v=3" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smecrow&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=C,C%2B%2B&cache_seconds=21600&v=3" alt="Most Used Languages" />
+</p>
 
 ## Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-smecrow-181717?style=for-the-badge&logo=github)](https://github.com/smecrow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Peixoto_Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielpeixotopereira/)
+[![Email](https://img.shields.io/badge/Email-gabs.itso%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabs.itso@gmail.com)
