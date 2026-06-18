@@ -1,6 +1,8 @@
-# Olá, eu sou o Gabriel
+<h1 align="center">Olá, eu sou o Gabriel</h1>
 
-Estudante de Engenharia de Software, em constante evolução na área de desenvolvimento de software.
+<p align="center">
+  Estudante de Engenharia de Software em constante evolução na área de desenvolvimento.
+</p>
 
 Tenho conhecimento em **Java**, **Spring Boot** e **C#**, com interesse em construir aplicações bem organizadas, APIs, sistemas backend e soluções que resolvam problemas reais.
 
